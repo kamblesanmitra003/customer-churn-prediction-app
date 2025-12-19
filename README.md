@@ -92,5 +92,8 @@ Display churn probability
 Improve UI with charts
 Deploy on cloud (Streamlit Cloud / AWS)
 
+The dataset used for this project is publicly available and can be accessed from:
+https://www.kaggle.com/datasets/abdullah0a/telecom-customer-churn-insights-for-analysis
+
 👨‍💻 Author
 Sanmitra Kamble
